@@ -1,0 +1,6 @@
+[submodule "book-service-backend"]
+	path = book-service-backend
+	url = https://github.com/DressOssr/book-service-backend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/DressOssr/book-service-backend.git
