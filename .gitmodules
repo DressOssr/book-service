@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/DressOssr/book-service-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/DressOssr/book-service-frontend.git
